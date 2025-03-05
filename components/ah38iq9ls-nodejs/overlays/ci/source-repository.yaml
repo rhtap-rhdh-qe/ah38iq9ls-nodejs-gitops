@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ah38iq9ls-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ah38iq9ls-nodejs
